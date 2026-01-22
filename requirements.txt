@@ -1,0 +1,10 @@
+polars
+pyarrow
+numpy
+scikit-learn
+lightgbm
+xgboost
+shap
+mlflow
+fastapi
+uvicorn

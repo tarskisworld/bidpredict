@@ -1,0 +1,26 @@
+# venvs
+.venv/
+.venv-model/
+
+# outputs
+csv_complete_*/
+csv_test_*/
+validation/
+docling_out/
+line_items_*.csv
+bidparse/canonical/
+bidparse/validation/
+bidparse/line_items_*.csv
+
+# data artifacts
+data/
+models/
+reports/
+
+# misc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
