@@ -16,6 +16,7 @@ bidparse/line_items_*.csv
 data/
 models/
 reports/
+bidparse/pdfs/
 
 # misc
 __pycache__/
